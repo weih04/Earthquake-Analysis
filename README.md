@@ -24,13 +24,13 @@ This folder contains the original earthquake dataset, cleaned dataset, supplemen
 
 This is the set of slides we used for our presentation. It touches on our group’s motivation, problem and aim, data collection and preparation, basic Exploratory Data Analysis and Data Visualisation as well as the 3 Machine Regression Models with two other new techniques that we have utilised to draw our conclusions.
 
-- Tan Wei Hui & Nicholas Tan
+-Tan Wei Hui & Nicholas Tan
 
 ### Jupyter Notebook #1: Data Cleaning & Preparation
 
 This notebook contains the code we used to identify and remove duplicates and outliers in our data set. For column with missing values, we have included codes to replace them with either the median value or NAN or a total removal. Additionally, there are new features are created / original features are removed. For example, by splitting up the time features, we have obtained 3 new features which are day, month, year and season respectively. Other new features are normalised_mag and mag_category. For more details, please view our video/notebooks.
 
-- Nicholas Tan
+-Nicholas Tan
 
 ### Jupyter Notebook #2: Exploratory Data Analysis & Data Visualisation
 
@@ -42,7 +42,7 @@ This notebook contains the code we used to showcase the potential relationships 
 
 This notebook contains code used to predict earthquake magnitude through the use of 3 regression models (Linear Regression, Random Forest, Polynomial Regression).  We then proceeded to use 2 new techniques (Cross Validation & Hyperparameter tuning) to prevent cases of overfitting in our datasets. The evaluations of models are mainly done in common metre of Mean Square Error, which is an average of the squares of the errors. For more details, please view our video/notebooks.
 
-- Nicholas Tan
+-Nicholas Tan
 
 
 ## Conclusions
