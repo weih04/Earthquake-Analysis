@@ -5,7 +5,6 @@ Our Problem Statement : How can we optimise machine learning algorithms to help 
 Our Goal : To harness our dataset for identifying patterns and relationships pertinent to earthquake magnitude prediction, aiming to minimise the adverse effects of earthquakes in Japan
 
 ## DataSets
-_____________________________________________________________________
 
 ### Kaggle 
 
@@ -16,7 +15,6 @@ _____________________________________________________________________
 
 
 ## FCED_Team 6 Folder
-_____________________________________________________________________
 
 ### Datasets Folder: 
 
@@ -48,12 +46,11 @@ This notebook contains code used to predict earthquake magnitude through the use
 
 
 ## Conclusions
-____________________________________________________________________
+
 Though our model isn’t able to hit 100% accuracy in magnitude prediction, we could see improvements made. Theoretically, our model has enhanced  earthquake magnitude prediction. However, in reality it is not the case. In our model, we did not deal with the prediction of the exact time and location of earthquakes. Hence, these aspects combined, make every prediction essentially a probability, not a certainty. This underscores the inherent complexities and uncertainties in forecasting seismic events.
 
 
 ## References
-___________________________________________
 
 https://www.kaggle.com/datasets/aerodinamicc/earthquakes-in-japan
 https://www.kaggle.com/datasets/stpeteishii/earthquake-in-japan
