@@ -13,6 +13,10 @@ Our Goal : To harness our dataset for identifying patterns and relationships per
 2. Earthquakes in Japan (2001 - 2018)
     - used in EDA ONLY
 
+## Collaborators
+- Tan Wei Hui : @weih04
+- Tan Li Ren, Nicholas: @ntan087
+
 
 ## FCED_Team 6 Folder
 
